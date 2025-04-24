@@ -1,7 +1,9 @@
 # 🏆 Hazrat Ali Achievements 🏆
 
-![webdevelopment.jpeg]
+<img src="images/webdevelopment.jpeg"/>
 
 
-🏅 Displaying Achievements 🏅
+
+
+# 🏅 Displaying Achievements 🏅
 
