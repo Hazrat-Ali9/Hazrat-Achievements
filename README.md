@@ -2,6 +2,7 @@
 
 # 🏅 Displaying Achievements 🏅
 
+<img src="images/plevel2.png"/>
 <img src="images/hackerrankproblemsolving.png"/>
 <img src="images/Programming Foundation.jpg"/>
 <img src="images/webdevelopment.jpeg"/>
