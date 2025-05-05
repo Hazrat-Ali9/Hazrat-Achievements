@@ -2,6 +2,7 @@
 
 # 🏅 Displaying Achievements 🏅
 
+<img src="images/contest.jpeg"/>
 <img src="images/achievement.jpg"/>
 <img src="images/blackbelt.png"/>
 <img src="images/plevel2.png"/>
