@@ -2,6 +2,7 @@
 
 # 🏅 Displaying Achievements 🏅
 
+<img src="images/iusachieve.png"/>
 <img src="images/contest.jpeg"/>
 <img src="images/achievement.jpg"/>
 <img src="images/blackbelt.png"/>
