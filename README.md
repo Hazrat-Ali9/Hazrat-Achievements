@@ -2,6 +2,7 @@
 
 # 🏅 Displaying Achievements 🏅
 
+
 <img src="images/iusachieve.png"/>
 <img src="images/contest.jpeg"/>
 <img src="images/achievement.jpg"/>
@@ -14,6 +15,7 @@
 <img src="images/python.jpeg"/>
 <img src="images/hackerrank.png"/>
 <img src="images/pytron.jpg>
+
 <img src="images/jobplacement.jpeg"/>
 
 
