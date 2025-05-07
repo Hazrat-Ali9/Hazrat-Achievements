@@ -15,8 +15,7 @@
 <img src="images/python.jpeg"/>
 <img src="images/hackerrank.png"/>
 <img src="images/pytron.jpg>
-
-<img src="images/jobplacement.jpeg"/>
+<img src="images/jobplacement.jpg"/>
 
 
 
