@@ -2,6 +2,7 @@
 
 # 🏅 Displaying Achievements 🏅
 
+<img src="images/psb.png"/>
 <img src="images/jobplacement.jpg"/>
 <img src="images/iusachieve.png"/>
 <img src="images/contest.jpeg"/>
