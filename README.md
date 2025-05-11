@@ -2,6 +2,7 @@
 
 # 🏅 Displaying Achievements 🏅
 
+<img src="images/javascript_basic certificate.pdf.jpg"/>
 <img src="images/psi.png"/>
 <img src="images/psb.png"/>
 <img src="images/jobplacement.jpg"/>
