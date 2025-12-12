@@ -2,7 +2,7 @@
 
 # 🏅 Displaying Achievements 🏅
 
-<img src="images/webbootcamp.jpg"/>
+<img src="images/webbootcamp.jpeg"/>
 <img src="images/math olympiad.jpg"/>
 <img src="images/javascript_basic certificate.pdf.jpg"/>
 <img src="images/psi.png"/>
