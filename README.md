@@ -10,6 +10,7 @@
 <img src="images/jobplacement.jpg"/>
 <img src="images/iusachieve.png"/>
 <img src="images/contest.jpeg"/>
+<img src="images/phitroncampau.jpg"/>
 <img src="images/achievement.jpg"/>
 <img src="images/icpchazrat.jpg"/>
 <img src="images/blackbelt.png"/>
