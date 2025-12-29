@@ -10,7 +10,7 @@
 <img src="images/jobplacement.jpg"/>
 <img src="images/iusachieve.png"/>
 <img src="images/contest.jpeg"/>
-<img src="images/managing director.jpeg"/>
+<img src="images/managingdirector.jpeg"/>
 <img src="images/phitroncampau.jpg"/>
 <img src="images/achievement.jpg"/>
 <img src="images/icpchazrat.jpg"/>
