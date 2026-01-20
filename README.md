@@ -1,6 +1,7 @@
 # 🏆 Hazrat Ali Achievements 🏆
 
 # 🏅 Displaying Achievements 🏅
+<img src="images/Hazratphitron.jpeg"/>
 <img src="images/icpccertificate.jpeg"/>
 <img src="images/webbootcamp.jpeg"/>
 <img src="images/math olympiad.jpg"/>
