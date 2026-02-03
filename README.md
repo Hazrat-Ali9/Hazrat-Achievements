@@ -1,6 +1,7 @@
 # 🏆 Hazrat Ali Achievements 🏆
 
 # 🏅 Displaying Achievements 🏅
+<img src="images/icpc-asia-dhaka-rc-hazrat-ali-place.png>
 <img src="images/HazratAliachieve.jpeg"/>
 <img src="images/Hazratphitron.jpeg"/>
 <img src="images/icpccertificate.jpeg"/>
