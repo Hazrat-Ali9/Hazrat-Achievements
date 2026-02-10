@@ -4,7 +4,7 @@
 <img src="images/ICPChazrat.png"/>
 <img src="images/icpcteam.jpeg"/>
 <img src="images/icpc-asia-dhaka-rc-hazrat-ali-place.png"/>
-<img src="images/HazratAliachieve.jpeg"/>
+<img src="images/HazratAliachieve.jpg"/>
 <img src="images/Hazratphitron.jpeg"/>
 <img src="images/icpccertificate.jpeg"/>
 <img src="images/webbootcamp.jpeg"/>
