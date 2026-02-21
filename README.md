@@ -1,6 +1,7 @@
 # 🏆 Hazrat Ali Achievements 🏆
 
 # 🏅 Displaying Achievements 🏅
+<img src="images/hazrataliicpc.jpeg"/>
 <img src="images/hazraticpc.jpeg"/>
 <img src="images/ICPChazrat.png"/>
 <img src="images/icpcteam.jpeg"/>
