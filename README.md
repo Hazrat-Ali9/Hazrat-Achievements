@@ -1,4 +1,4 @@
-# 🏆 Hazrat Ali Achievements 🏆
+# 🏆 Hazrat Ali Achievements 🏅
 
 # 🏅 Displaying Achievements 🏅
 <img src="images/sql_basic.jpg"/>
