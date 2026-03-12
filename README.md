@@ -7,6 +7,7 @@
 <img src="images/ICPChazrat.png"/>
 <img src="images/icpcteam.jpeg"/>
 <img src="images/icpc-asia-dhaka-rc-hazrat-ali-place.png"/>
+<img src="images/hazrat_phitron.jpg"/>
 <img src="images/github.jpg"/>
 <img src="images/Leetcode.jpg"/>
 <img src="images/HackerRank.jpg"/>
