@@ -38,6 +38,10 @@
 <img src="images/hackerrank.png"/>
 <img src="images/ambassdor.jpg"/>
 <img src="images/pytron.jpg"/>
+<img src="images/germany.jpg"/>
+<img src="images/phero.png"/>
+<img src="images/phitron.png"/>
+<img src="images/pherolevel2.png"/>
 
 
 
