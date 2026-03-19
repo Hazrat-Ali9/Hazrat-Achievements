@@ -8,6 +8,7 @@
 <img src="images/icpcteam.jpeg"/>
 <img src="images/hazrat_ali.jpg"/>
 <img src="images/hazrat_phitron.jpg"/>
+<img src="images/batch5.jpg"/>
 <img src="images/github.jpg"/>
 <img src="images/Leetcode.jpg"/>
 <img src="images/HackerRank.jpg"/>
