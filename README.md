@@ -43,6 +43,7 @@
 <img src="images/phero.png"/>
 <img src="images/phitron.png"/>
 <img src="images/pherolevel2.png"/>
+<img src="images/appointment_letter.jpg"/>
 
 
 
